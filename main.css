@@ -1,5 +1,5 @@
 div {
-  color: #f00, #ffa500, #ff0, #00bc3f, #06f, #8a2be2, #d300c9;
+  color: #f00; 
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
